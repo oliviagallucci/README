@@ -1,7 +1,17 @@
 # README   
-![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white) ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-9558B2.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E) ![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) 
 
-Olivia Gallucci's README Template
+<div align="center">
+    <p>Olivia Gallucci's README Template</p>
+</div>
+
+<div align="center">
+
+  <a href="">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
+  <a href="">![JavaScript](https://img.shields.io/badge/javascript-9558B2.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E</a>
+  <a href="">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
+    
+</div>
 
 ## Initial design  
 github.jpg
@@ -11,12 +21,27 @@ github.jpg
 * Make logos on [Canva](canva.com/)
   * Looking for a more libre-friendly alternative 
 
-## Centered? description  
+## Centered description  
 
+```html
+<div align="center">
+    <p>Description</p>
+</div>
+```
 
-## Badges next to project name
+## Badges 
 * Pre-existing [badges](https://github.com/Ileriayo/markdown-badges)
 * Make badges at [shields.io/](https://shields.io/)
+
+```html
+<div align="center">
+
+  <a href="">![badge1](https://img.shields.io/badge1/)</a>
+  <a href="">![badge2](https://img.shields.io/badge2/)</a>
+  <a href="">![badge3](https://img.shields.io/badge3/)</a>
+
+</div>
+```
 
 ## Usage 
 ![](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
