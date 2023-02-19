@@ -1,10 +1,8 @@
 # README   
 
 <div align="center">
-    <p>Olivia Gallucci's README Template</p>
-</div>
 
-<div align="center">
+  <p>Olivia Gallucci's README Template</p>
 
   <a href="">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
