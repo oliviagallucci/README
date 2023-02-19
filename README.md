@@ -70,7 +70,7 @@ This project is licensed under the General Public License version 3.0 - see the 
 [🔼 Back to top](#[link to readme header])
 ```
 or 
-<p align="center"><a href="https://github.com/oliviagallucci/README#README"><img src="" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/oliviagallucci/README#README"><img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
 
 ```
 <p align="center"><a href="https://github.com/username/your_project#"><img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
