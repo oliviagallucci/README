@@ -11,32 +11,41 @@
     
 </div>
 
-## Initial design  
+## Initial Design
 github.jpg
 
-## Centered? logo 
-* Example: 
-* Make logos on [Canva](canva.com/)
-  * Looking for a more libre-friendly alternative 
+<!--
+Choosing a title 
+GitHub SEO 
 
-## Centered description  
+-->
+
+### Centered
+* Logo or banner 
+  * Example: 
+  * Usually created with [Canva](canva.com/). However, I am looking for a more <b>libre-friendly alternative</b>; please let me know if you are aware of one.  
+* Description 
+  * .
+  * .
+  * TODO what makes a good description? 
+  * .
+  * .
+* Badges 
+  * Pre-existing [badges](https://github.com/Ileriayo/markdown-badges)
+  * Make badges at [shields.io/](https://shields.io/) 
 
 ```html
-<div align="center">
-    <p>Description</p>
-</div>
-```
-
-## Badges 
-* Pre-existing [badges](https://github.com/Ileriayo/markdown-badges)
-* Make badges at [shields.io/](https://shields.io/)
-
-```html
+<!-- Centers elements-->
 <div align="center">
 
+  <!--Description-->
+  <p>Description</p>
+
+  <!--Badges-->
   <a href="">![badge1](https://img.shields.io/badge1/)</a>
   <a href="">![badge2](https://img.shields.io/badge2/)</a>
   <a href="">![badge3](https://img.shields.io/badge3/)</a>
+  <a href="">![badge4](https://img.shields.io/badge4/)</a>
 
 </div>
 ```
@@ -49,14 +58,17 @@ github.jpg
 ```markdown
 ![](https://github.com/oliviagallucci/delete-twitter-likes/blob/main/delete-twitter-likes-usage.gif)
 ```
+
 ### Steps
 > usage steps 
 
-### Modifications  
+### Modifications 
+
 2. Be concise
 People have incredibly short attention spans. Cut all the excess wording out of your READ-ME and get down to brass tacks.
 
 ## Releases 
+
 * Use [semantic](https://semver.org/) versioning
   * Versions are separated into major, minor, patch and pre-release. The identifiers below from left to right: major, minor, and patch versions are always compared numerically.
     * Example: 1.0.0 < 2.0.0 < 2.1.0 < 2.1.1.
@@ -67,7 +79,8 @@ People have incredibly short attention spans. Cut all the excess wording out of 
     * testing is done by users and developers 
 
 ## Authors 
-* [Olivia Gallucci](https://github.com/oliviagallucci) - code author 
+
+* [Olivia Gallucci](https://github.com/oliviagallucci)
 * List of [contributors](https://github.com/your_username/your_project/contributors) who participated in this project.
 
 ## Contributions 
@@ -75,6 +88,7 @@ People have incredibly short attention spans. Cut all the excess wording out of 
 ## Supporters
 
 ## Warranty  
+
 The author of this tool offers no warranty or guarantee for its performance, reliability, or suitability for any particular purpose.
 
 The tool is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
@@ -86,18 +100,29 @@ Furthermore, the author expressly disclaims any responsibility or liability for 
 By using this tool, the user acknowledges that they have read this warranty statement and agree to assume all risks associated with its use.
 
 ## License
+
 This project is licensed under the General Public License version 3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Back-to-top button
+
 [🔼 Back to top](https://github.com/oliviagallucci/README#readme)
 
-```
+```markdown
 [🔼 Back to top](#[link to readme header])
 ```
+
 or 
-<p align="center"><a href="https://github.com/oliviagallucci/README#readme"><img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
 
-```
-<p align="center"><a href="https://github.com/username/your_project#"><img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
-```
+<p align="center">
+  <a href="https://github.com/oliviagallucci/README#readme">
+    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+  </a>
+</p>
 
+```html
+<p align="center">
+  <a href="https://github.com/username/your_project#">
+    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+  </a>
+</p>
+```
