@@ -11,7 +11,7 @@
     
 </div>
 
-## Initial Design
+## Banner section 
 github.jpg
 
 <!--
@@ -20,7 +20,7 @@ GitHub SEO
 
 -->
 
-### Centered
+* All elements centered 
 * Project title 
   * [GitHub's SEO](https://www.developermarkepear.com/blog/github-search-engine-optimization) examines the project's name, description, topics, stars, watchers, and forks via traffic, the README, and file types
 * Logo or banner 
