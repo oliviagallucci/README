@@ -41,6 +41,9 @@ GitHub SEO
   <!--Project title-->
   # Project-title
 
+  <!-- -->
+  ![]( GIF/Logo/Image/Link )
+
   <!--Description + emoji () -->
   Description 
 
@@ -89,7 +92,10 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
 
 ## Contributions
 
+```markdown
 ![ImageTheOtherMarkdown](Screent.png)
+```
+
 
 ## Supporters
 
