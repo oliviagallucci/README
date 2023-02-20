@@ -4,7 +4,7 @@
 
   Olivia Gallucci's README Template
 
-  <a href="">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="https://github.com/oliviagallucci/README">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
   <a href="">![JavaScript](https://img.shields.io/badge/javascript-9558B2.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)</a>
   <a href="">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
@@ -144,6 +144,3 @@ or
   </a>
 </p>
 ```
-
-
-class="btn btn-primary"
