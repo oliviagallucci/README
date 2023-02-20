@@ -11,8 +11,7 @@
     
 </div>
 
-## Banner section 
-github.jpg
+## Banner
 
 <!--
 Choosing a title 
@@ -26,9 +25,7 @@ GitHub SEO
 * Logo or banner 
   * Usually created with [Canva](canva.com/). However, I am looking for a more <b>libre-friendly alternative</b>; please let me know if you are aware of one.  
 * Description
-  * Include your core keywords and not much else in the About section. 
-  * .
-  * .
+  * Include your core keywords and not much else in the description section. 
 * Badges 
   * Pre-existing [badges](https://github.com/Ileriayo/markdown-badges)
   * Make badges at [shields.io](https://shields.io/) 
@@ -41,7 +38,7 @@ GitHub SEO
   # Project-title
 
   <!-- -->
-  ![]( GIF/Logo/Image/Link )
+  ![]( Link_to_GIF_Logo_Image )
 
   <!--Description + emoji () -->
   Description 
@@ -150,3 +147,5 @@ This project is licensed under the General Public License version 3.0 - see the 
   </button>
 </div>
 -->
+
+
