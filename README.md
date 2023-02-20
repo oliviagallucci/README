@@ -45,9 +45,9 @@ GitHub SEO
   Description 
 
   <!--Badges-->
-  <a href="">![badge1](https://img.shields.io/badge1/)</a>
-  <a href="">![badge2](https://img.shields.io/badge2/)</a>
-  <a href="">![badge3](https://img.shields.io/badge3/)</a>
+  <a href=" your_link ">![badge1](https://img.shields.io/badge1/)</a>
+  <a href=" your_link ">![badge2](https://img.shields.io/badge2/)</a>
+  <a href=" your_link ">![badge3](https://img.shields.io/badge3/)</a>
   <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
 
 </div>
