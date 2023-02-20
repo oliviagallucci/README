@@ -115,14 +115,14 @@ This project is licensed under the General Public License version 3.0 - see the 
 
 <p align="center">
   <a href="https://github.com/oliviagallucci/README#readme">
-    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+    <img src="https://github.com/oliviagallucci/README/blob/main/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
   </a>
 </p>
 
 ```html
 <p align="center">
   <a href="https://github.com/username/your_project#">
-    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+    <img src="https://github.com/oliviagallucci/README/blob/main/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
   </a>
 </p>
 ```
