@@ -7,7 +7,7 @@
   <a href="https://github.com/oliviagallucci/README">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
   <a href="">![JavaScript](https://img.shields.io/badge/javascript-9558B2.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)</a>
-  <a href="">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
+  <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
     
 </div>
 
@@ -48,7 +48,7 @@ GitHub SEO
   <a href="">![badge1](https://img.shields.io/badge1/)</a>
   <a href="">![badge2](https://img.shields.io/badge2/)</a>
   <a href="">![badge3](https://img.shields.io/badge3/)</a>
-  <a href="">![badge4](https://img.shields.io/badge4/)</a>
+  <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
 
 </div>
 ```
@@ -111,6 +111,22 @@ This project is licensed under the General Public License version 3.0 - see the 
 
 ## Back-to-top button
 
+<p align="center">
+  <a href="https://github.com/oliviagallucci/README#readme">
+    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+  </a>
+</p>
+
+```html
+<p align="center">
+  <a href="https://github.com/username/your_project#">
+    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
+  </a>
+</p>
+```
+
+<!-- Attempt to make my website's button -->
+<!--
 <div align="center">
   <button type="button" 
     style="padding: 16px 32px; 
@@ -128,19 +144,4 @@ This project is licensed under the General Public License version 3.0 - see the 
     </a>
   </button>
 </div>
-
-or 
-
-<p align="center">
-  <a href="https://github.com/oliviagallucci/README#readme">
-    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
-  </a>
-</p>
-
-```html
-<p align="center">
-  <a href="https://github.com/username/your_project#">
-    <img src="https://github.com/oliviagallucci/README/blob/main/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/>
-  </a>
-</p>
-```
+-->
