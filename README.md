@@ -111,11 +111,6 @@ This project is licensed under the General Public License version 3.0 - see the 
 
 ## Back-to-top button
 
-[🔼 Back to top](https://github.com/oliviagallucci/README#readme)
-
-```markdown
-[🔼 Back to top](#[link to readme header])
-```
 <div align="center">
   <button type="button" 
     style="padding: 16px 32px; 
