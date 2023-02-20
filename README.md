@@ -21,13 +21,13 @@ GitHub SEO
 -->
 
 ### Centered
+* Project title 
+  * [GitHub's SEO](https://www.developermarkepear.com/blog/github-search-engine-optimization) examines the project's name, description, topics, stars, watchers, and forks via traffic, the README, and file types
 * Logo or banner 
   * Example: 
   * Usually created with [Canva](canva.com/). However, I am looking for a more <b>libre-friendly alternative</b>; please let me know if you are aware of one.  
-* Description 
-  * .
-  * .
-  * TODO what makes a good description? 
+* Description
+  * Include your core keywords and not much else in the About section. 
   * .
   * .
 * Badges 
@@ -41,8 +41,8 @@ GitHub SEO
   <!--Project title-->
   # Project-title
 
-  <!--Description-->
-  Description
+  <!--Description + emoji () -->
+  Description 
 
   <!--Badges-->
   <a href="">![badge1](https://img.shields.io/badge1/)</a>
@@ -69,8 +69,7 @@ GitHub SEO
 
 ### Modifications 
 
-2. Be concise
-People have incredibly short attention spans. Cut all the excess wording out of your READ-ME and get down to brass tacks.
+Be concise. People have incredibly short attention spans. Cut all the excess wording out of your README.
 
 ## Releases 
 
@@ -85,10 +84,12 @@ People have incredibly short attention spans. Cut all the excess wording out of 
 
 ## Authors 
 
-* [Olivia Gallucci](https://github.com/oliviagallucci)
+* Olivia Gallucci ([@oliviagallucci](https://github.com/oliviagallucci)) - Learn more on my [website](https://oliviagallucci.com/)
 * List of [contributors](https://github.com/your_username/your_project/contributors) who participated in this project.
 
-## Contributions 
+## Contributions
+
+![ImageTheOtherMarkdown](Screent.png)
 
 ## Supporters
 
@@ -115,6 +116,22 @@ This project is licensed under the General Public License version 3.0 - see the 
 ```markdown
 [🔼 Back to top](#[link to readme header])
 ```
+<div align="center">
+  <button type="button" 
+    style="padding: 16px 32px; 
+    font: bold 18px libre baskerville; 
+    text-align: center; 
+    display: inline-block;
+    cursor: pointer;
+    color: black; border-radius: 99px;
+    background: linear-gradient(135deg,rgb(108,208,250) 0%,rgb(152,150,240) 50%,rgb(255,110,199) 100%)" 
+    class="btn btn-primary">
+    <a href="oliviagallucci.com/in-the-press/" 
+       style="text-decoration:none; color:black;">
+        Back to top
+    </a>
+  </button>
+</div>
 
 or 
 
@@ -131,22 +148,3 @@ or
   </a>
 </p>
 ```
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
-<script>
-    var svgString = gradientBadge({
-        /* same as above */
-        subject: 'version', // <text>
-      status: 'v1.2.3', // <text>
-      style: 'flat', // 'flat' or undefined, optional
-     // And any other parameter supported by badgen (icon, scale...)
-    gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
-    });
-</script>
-
-Result: ![Result][usage]
-
-[usage]: https://runkit.io/bokub/badge/branches/master/version/v1.2.3/pink-F78642?style=for-the-badge
-
