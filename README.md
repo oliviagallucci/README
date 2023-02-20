@@ -123,9 +123,10 @@ This project is licensed under the General Public License version 3.0 - see the 
     text-align: center; 
     display: inline-block;
     cursor: pointer;
-    color: black; border-radius: 99px;
+    color: black; 
+    border-radius: 99px;
     background: linear-gradient(135deg,rgb(108,208,250) 0%,rgb(152,150,240) 50%,rgb(255,110,199) 100%)" 
-    class="btn btn-primary">
+    >
     <a href="oliviagallucci.com/in-the-press/" 
        style="text-decoration:none; color:black;">
         Back to top
@@ -148,3 +149,6 @@ or
   </a>
 </p>
 ```
+
+
+class="btn btn-primary"
