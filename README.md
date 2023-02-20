@@ -1,6 +1,6 @@
 <div align="center">
   
-  #README
+  # README
 
   Olivia Gallucci's README Template
 
