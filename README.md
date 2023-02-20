@@ -1,6 +1,6 @@
-# README   
-
 <div align="center">
+  
+  #README
 
   <p>Olivia Gallucci's README Template</p>
 
@@ -54,6 +54,8 @@ GitHub SEO
 ![](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
 
 > Reminder to create a GIF demo showing how the project is used]. You can record the GIF using a libre-friendly application, [Peek](https://github.com/phw/peek). Credits to Peek for the GIF above. 
+
+* Create custom [Terminal GIFs](https://www.terminalgif.com/)
 
 ```markdown
 ![](https://github.com/oliviagallucci/delete-twitter-likes/blob/main/delete-twitter-likes-usage.gif)
@@ -126,3 +128,22 @@ or
   </a>
 </p>
 ```
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/gradient-badge"></script>
+<script>
+    var svgString = gradientBadge({
+        /* same as above */
+        subject: 'version', // <text>
+      status: 'v1.2.3', // <text>
+      style: 'flat', // 'flat' or undefined, optional
+     // And any other parameter supported by badgen (icon, scale...)
+    gradient: ['pink', 'F78642'], // array of colors (Hexadecimal or name)
+    });
+</script>
+
+Result: ![Result][usage]
+
+[usage]: https://runkit.io/bokub/badge/branches/master/version/v1.2.3/pink-F78642?style=for-the-badge
+
