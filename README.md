@@ -2,6 +2,8 @@
   
   # README
 
+  ![](https://github.com/oliviagallucci/README/blob/main/images/readme.gif)
+
   Olivia Gallucci's README Template
 
   <a href="https://github.com/oliviagallucci/README">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -16,7 +18,6 @@
 <!--
 Choosing a title 
 GitHub SEO 
-
 -->
 
 * All elements centered 
@@ -24,6 +25,7 @@ GitHub SEO
   * [GitHub's SEO](https://www.developermarkepear.com/blog/github-search-engine-optimization) examines the project's name, description, topics, stars, watchers, and forks via traffic, the README, and file types
 * Logo or banner 
   * Usually created with [Canva](canva.com/). However, I am looking for a more <b>libre-friendly alternative</b>; please let me know if you are aware of one.  
+  * 
 * Description
   * Include your core keywords and not much else in the description section. 
 * Badges 
