@@ -4,7 +4,7 @@
 
   ![](https://github.com/oliviagallucci/README/blob/main/images/readme.gif)
 
-  Olivia Gallucci's README Template
+  Olivia Gallucci's README Template written in [Markdown](https://www.markdownguide.org/basic-syntax/)
 
   <a href="https://github.com/oliviagallucci/README">![GitHub](https://img.shields.io/badge/github-EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="https://github.com/oliviagallucci/README/blob/main/LICENSE">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
@@ -16,33 +16,43 @@
 ## Banner
 
 <!--
-Choosing a title 
-GitHub SEO 
+Choosing a title w GitHub SEO 
+
+TODO: learn about markdown formatting practices 
+
+add my blog colors to this doc and keep formatting consistent 
+
 -->
 
 * All elements centered 
 * Project title 
   * [GitHub's SEO](https://www.developermarkepear.com/blog/github-search-engine-optimization) examines the project's name, description, topics, stars, watchers, and forks via traffic, the README, and file types
 * Logo or banner 
-  * Usually created with [Canva](canva.com/). However, I am looking for a more <b>libre-friendly alternative</b>; please let me know if you are aware of one.  
-  * 
+  * Usually created with [Canva](canva.com/). However, I am looking for a more **libre-friendly alternative**; please let me know if you are aware of one.
 * Description
-  * Include your core keywords and not much else in the description section. 
+  * Include your **core keywords** and not much else. Add an [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to the end of the description. 
 * Badges 
-  * Pre-existing [badges](https://github.com/Ileriayo/markdown-badges)
-  * Make badges at [shields.io](https://shields.io/) 
+  * Create [new](https://shields.io/) or use [pre-existing](https://github.com/Ileriayo/markdown-badges) badges 
+  * 4 badges = programming language used, technology interacted with, license, and sponsorship  
 
 ```html
+
 <!-- Centers elements-->
 <div align="center">
 
   <!--Project title-->
   # Project-title
 
+  <!-- Light mode logo -->
+  <img src="light-mode-logo.png" alt="Light mode logo" class="logo">
+
+  <!-- Dark mode logo -->
+  <img src="dark-mode-logo.png" alt="Dark mode logo" class="logo">
+
   <!-- -->
   ![]( Link_to_GIF_Logo_Image )
 
-  <!--Description + emoji () -->
+  <!--Description + emoji -->
   Description 
 
   <!--Badges-->
@@ -52,12 +62,49 @@ GitHub SEO
   <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
 
 </div>
+
+<!--
+  Below, I am displaying two different images with the same class name .logo but with different src attributes. Then, I use CSS media queries to hide the logo that's not appropriate for the user's current color scheme.
+-->
+
+<style>
+@media (prefers-color-scheme: dark) {
+  /* Hide light mode logo in dark mode */
+  .logo[src="light-mode-logo.png"] {
+    display: none;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  /* Hide dark mode logo in light mode */
+  .logo[src="dark-mode-logo.png"] {
+    display: none;
+  }
+}
+</style>
 ```
 
+<style>
+@media (prefers-color-scheme: dark) {
+  /* Hide light mode logo in dark mode */
+  .logo[src="light-mode-logo.png"] {
+    display: none;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  /* Hide dark mode logo in light mode */
+  .logo[src="dark-mode-logo.png"] {
+    display: none;
+  }
+}
+</style>
+
 ## Usage 
+
 ![](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
 
-> Reminder to create a GIF demo showing how the project is used]. You can record the GIF using a libre-friendly application, [Peek](https://github.com/phw/peek). Credits to Peek for the GIF above. 
+Create a GIF demo via [Peek](https://github.com/phw/peek) showing how the project is used. Credits to Peek for the GIF above.
 
 * Create custom [Terminal GIFs](https://www.terminalgif.com/)
 
@@ -66,7 +113,8 @@ GitHub SEO
 ```
 
 ### Steps
-> usage steps 
+
+Usage steps 
 
 ### Modifications 
 
@@ -83,10 +131,11 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
   * 1.0.0-beta
     * testing is done by users and developers 
 
-## Authors 
+## Acknowledgements 
 
 * Olivia Gallucci ([@oliviagallucci](https://github.com/oliviagallucci)) - Learn more on my [website](https://oliviagallucci.com/)
 * List of [contributors](https://github.com/your_username/your_project/contributors) who participated in this project.
+* Supporters (do something with this)
 
 ## Contributions
 
@@ -94,10 +143,7 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
 ![ImageTheOtherMarkdown](Screent.png)
 ```
 
-
-## Supporters
-
-## Warranty  
+## Warranty
 
 The author of this tool offers no warranty or guarantee for its performance, reliability, or suitability for any particular purpose.
 
