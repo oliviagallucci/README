@@ -10,7 +10,6 @@
   <a href="https://github.com/oliviagallucci/README/blob/main/LICENSE">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
   <a href="">![Markdown](https://img.shields.io/badge/markdown-9558B2.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
   <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
-    
 </div>
 
 ## Banner
@@ -24,16 +23,21 @@ add my blog colors to this doc and keep formatting consistent
 
 -->
 
-* All elements centered 
-* Project title 
+* All elements centered
+* Project title
   * [GitHub's SEO](https://www.developermarkepear.com/blog/github-search-engine-optimization) examines the project's name, description, topics, stars, watchers, and forks via traffic, the README, and file types
-* Logo or banner 
+* Logo or banner
   * Usually created with [Canva](canva.com/). However, I am looking for a more **libre-friendly alternative**; please let me know if you are aware of one.
 * Description
-  * Include your **core keywords** and not much else. Add an [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to the end of the description. 
-* Badges 
-  * Create [new](https://shields.io/) or use [pre-existing](https://github.com/Ileriayo/markdown-badges) badges 
-  * 4 badges = programming language used, technology interacted with, license, and sponsorship  
+  * Include your **core keywords** and not much else. Add an [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to the end of the description.
+* Badgess
+  * Create [new](https://shields.io/) or use [pre-existing](https://github.com/Ileriayo/markdown-badges) badges
+    * Unsupported [gradient](https://github.com/bokub/gradient-badge) badges
+  * 4 badges
+    * Programming language
+    * License
+    * Tech (ex: Docker)
+    * Sponsor button
 
 ```html
 
@@ -114,13 +118,13 @@ Create a GIF demo via [Peek](https://github.com/phw/peek) showing how the projec
 
 ### Steps
 
-Usage steps 
+Usage steps
 
-### Modifications 
+### Modifications
 
 Be concise. People have incredibly short attention spans. Cut all the excess wording out of your README.
 
-## Releases 
+## Releases
 
 * Use [semantic](https://semver.org/) versioning
   * Versions are separated into major, minor, patch and pre-release. The identifiers below from left to right: major, minor, and patch versions are always compared numerically.
@@ -131,7 +135,7 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
   * 1.0.0-beta
     * testing is done by users and developers 
 
-## Acknowledgements 
+## Acknowledgements
 
 * Olivia Gallucci ([@oliviagallucci](https://github.com/oliviagallucci)) - Learn more on my [website](https://oliviagallucci.com/)
 * List of [contributors](https://github.com/your_username/your_project/contributors) who participated in this project.
@@ -195,5 +199,3 @@ This project is licensed under the General Public License version 3.0 - see the 
   </button>
 </div>
 -->
-
-
