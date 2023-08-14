@@ -1,8 +1,8 @@
 <div align="center">
-  
-  # README
 
-  ![](https://github.com/oliviagallucci/README/blob/main/images/readme.gif)
+# README
+
+  ![README Gif](https://github.com/oliviagallucci/README/blob/main/images/readme.gif)
 
   Olivia Gallucci's README Template written in [Markdown](https://www.markdownguide.org/basic-syntax/)
 
@@ -30,7 +30,7 @@ add my blog colors to this doc and keep formatting consistent
   * Usually created with [Canva](canva.com/). However, I am looking for a more **libre-friendly alternative**; please let me know if you are aware of one.
 * Description
   * Include your **core keywords** and not much else. Add an [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to the end of the description.
-* Badgess
+* Badges
   * Create [new](https://shields.io/) or use [pre-existing](https://github.com/Ileriayo/markdown-badges) badges
     * Unsupported [gradient](https://github.com/bokub/gradient-badge) badges
   * 4 badges
@@ -104,9 +104,9 @@ add my blog colors to this doc and keep formatting consistent
 }
 </style>
 
-## Usage 
+## Usage
 
-![](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
+![Peek GIF](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
 
 Create a GIF demo via [Peek](https://github.com/phw/peek) showing how the project is used. Credits to Peek for the GIF above.
 
@@ -130,10 +130,10 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
   * Versions are separated into major, minor, patch and pre-release. The identifiers below from left to right: major, minor, and patch versions are always compared numerically.
     * Example: 1.0.0 < 2.0.0 < 2.1.0 < 2.1.1.
 * Pre-release examples
-  * 1.0.0-alpha 
+  * 1.0.0-alpha
     * testing is done by developers only
   * 1.0.0-beta
-    * testing is done by users and developers 
+    * testing is done by users and developers
 
 ## Acknowledgements
 
