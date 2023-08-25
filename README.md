@@ -10,6 +10,7 @@
   <a href="https://github.com/oliviagallucci/README/blob/main/LICENSE.md">![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg?style=for-the-badge)</a>
   <a href="">![Markdown](https://img.shields.io/badge/markdown-9558B2.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
   <a href="https://github.com/sponsors/oliviagallucci">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
+
 </div>
 
 ## Banner
@@ -137,7 +138,7 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
 
 ## Acknowledgements
 
-* Olivia Gallucci ([@oliviagallucci](https://github.com/oliviagallucci)) - Learn more on my [website](https://oliviagallucci.com/)
+* Olivia Gallucci ([@oliviagallucci](https://github.com/oliviagallucci)) - [https://oliviagallucci.com](https://oliviagallucci.com/)
 * List of [contributors](https://github.com/your_username/your_project/contributors) who participated in this project.
 * Supporters (do something with this)
 
@@ -162,6 +163,40 @@ By using this tool, the user acknowledges that they have read this warranty stat
 ## License
 
 This project is licensed under the General Public License version 3.0 - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## Definitions 
+
+### Markdown 
+
+Markdown is a lightweight markup language that is used to format plain text documents. It was created to be easy to write and read in plain text, while also allowing for the conversion of the text into HTML or other document formats. 
+
+Markdown is often used for creating documents, web pages, README files, and other types of content that require basic formatting.
+
+In Markdown, formatting is achieved through the use of simple and intuitive syntax, such as:
+
+```markdown
+# Top-level heading
+## Second-level heading 
+### Third-level heading (and so on)
+
+*italic text* or _italic text_
+**bold text** or __bold text__
+
+1. First item
+2. Second item
+
+- Bulleted item 1
+- Bulleted item 2
+
+[Olivia's website](https://oliviagallucci.com)
+
+![Alt text](image-url.png)
+
+`inline code`
+
+> This is a blockquote.
+```
 
 ## Back-to-top button
 
