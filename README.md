@@ -150,6 +150,8 @@ Be concise. People have incredibly short attention spans. Cut all the excess wor
 
 ## Warranty
 
+### GPLv3
+
 The author of this tool offers no warranty or guarantee for its performance, reliability, or suitability for any particular purpose.
 
 The tool is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
@@ -159,6 +161,18 @@ Use of this tool is entirely at the user's own risk. The author does not accept 
 Furthermore, the author expressly disclaims any responsibility or liability for the accuracy, content, or availability of information found through the use of this tool, or for any harm caused by viruses, malware, or other harmful components that may be introduced into your system as a result of using this tool.
 
 By using this tool, the user acknowledges that they have read this warranty statement and agree to assume all risks associated with its use.
+
+### MIT 
+
+The creator(s) of this tool provides no warranty or assurance regarding its performance, dependability, or suitability for any specific purpose.
+
+The tool is furnished on an "as is" basis without any form of warranty, whether express or implied, encompassing, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+The user assumes full responsibility for employing this tool and does so at their own peril. The creator(s) holds no accountability for any loss, damage, or expenses sustained by the user or any third party due to the utilization of this tool, whether in a direct or indirect manner.
+
+Moreover, the creator(s) explicitly renounces any liability or responsibility for the accuracy, substance, or availability of information acquired through the use of this tool, as well as for any harm inflicted by viruses, malware, or other malicious components that may infiltrate the user's system as a result of employing this tool.
+
+By utilizing this tool, the user acknowledges that they have perused and understood this warranty declaration and agree to undertake all risks linked to its utilization.
 
 ## License
 
